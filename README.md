@@ -1,4 +1,4 @@
-(<img width="1536" height="1024" alt="Reconciliation_analytics" src="https://github.com/user-attachments/assets/7ac2e542-8dcc-4057-abab-728dc1aeef57" />)
+<img width="1536" height="1024" alt="Reconciliation_analytics" src="https://github.com/user-attachments/assets/7ac2e542-8dcc-4057-abab-728dc1aeef57" />
 
 # Revenue-Leakage-Reconciliation-Analytics
 An end-to-end financial analytics system to detect revenue leakage, ensure transaction accuracy, and improve financial visibility in a fintech environment.
