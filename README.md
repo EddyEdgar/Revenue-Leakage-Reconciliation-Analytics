@@ -2,16 +2,13 @@
 
 # Revenue-Leakage-Reconciliation-Analytics
 An end-to-end financial analytics system to detect revenue leakage, ensure transaction accuracy, and improve financial visibility in a fintech environment.
-
 # Overview
 In fintech systems, transactions pass through multiple layers—from internal application records to external payment gateways and final settlement. Due to system errors, integration issues, or delays, discrepancies can occur between these records, leading to:
 * Revenue leakage
 * Inaccurate financial reporting
 * Operational risk
 This project builds a reconciliation analytics system that compares internal and gateway transaction data to identify mismatches, quantify financial risk, and support better decision-making.
-
 # Business Problem
-
 There is limited visibility into whether all transactions recorded internally are successfully processed and settled through the payment gateway.
 
 ### Key questions:
